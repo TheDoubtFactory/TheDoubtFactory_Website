@@ -16,6 +16,6 @@ We value a positive and respectful community. Kindly adhere to our [Code of Cond
 
 ## License 📄
 
-Please refer to the [License](https://github.com/TheDoubtFactory/TheDoubtFactory_Website/blob/main/LICENSE.md) of this project to understand your rights.
+Please refer to the [License](https://github.com/TheDoubtFactory/TheDoubtFactory_Website/blob/main/LICENSE.txt) of this project to understand your rights.
 
 # With Love 💙, The Doubt Factory.
