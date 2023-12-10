@@ -1,7 +1,6 @@
-     <!--ADD PROJECT NAME AND BRIEF DISCRIPTION REPLACING THIS LINE-->
+TheDoubtFactory_Website: The Official Website for everything happening at TDF
 
-<!-- Changes to be made in the line below : Change the Year --> 
-Copyright (C) <YEAR>  The Doubt Factory <balakrishnaprabhu1999@gmail.com>
+Copyright (C) <2023>  The Doubt Factory <balakrishnaprabhu1999@gmail.com>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
