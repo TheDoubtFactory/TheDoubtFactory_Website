@@ -18,4 +18,11 @@ We value a positive and respectful community. Kindly adhere to our [Code of Cond
 
 Please refer to the [License](https://github.com/TheDoubtFactory/TheDoubtFactory_Website/blob/main/LICENSE.txt) of this project to understand your rights.
 
+[The Doubt Factory Website](https://github.com/TheDoubtFactory/TheDoubtFactory_Website) by [The Doubt Factory](https://github.com/TheDoubtFactory) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+
+![Creative Commons License](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)
+![Attribution](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)
+![NonCommercial](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)
+![ShareAlike](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)
+
 # With Love 💙, The Doubt Factory.
